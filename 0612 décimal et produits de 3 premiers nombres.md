@@ -1,0 +1,1 @@
+Lorsqu'on essaye de multiplier les 3 premiers nombres de la suite donnée dans [[Commande 06 12]] ça ne donne rien, on a essayé tout les nombres de 0 à 50.
