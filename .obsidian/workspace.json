@@ -26,43 +26,19 @@
             "id": "c4caddc2c2fe103b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indices/Commande 06 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31f522f8dca044f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fausses routes/Fausses routes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c66d40829086c39",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "Carte Mentale/ARG.canvas",
                 "viewState": {
-                  "x": -2009.2269923581673,
-                  "y": 551.5220586578333,
-                  "zoom": -0.3908167699726597
+                  "x": -1309.1062802767672,
+                  "y": 945.2517946373873,
+                  "zoom": -2.514150103305994
                 }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,16 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83865422a97d3f62",
+  "active": "c4caddc2c2fe103b",
   "lastOpenFiles": [
-    "ARG/audio vidéo 1.png",
+    "Indices/Commande 06 12.md",
+    "Fausses routes/Fausses routes.md",
+    "ARG/Pasted image 20240616161956.png",
     "Carte Mentale/ARG.canvas",
+    "ARG/audio vidéo 1.png",
     "ARG",
     "Git ARG cheat sheet.pdf",
     "Obsidian Organisation.md",
-    "Indices/Commande 06 12.md",
     "0612 décimal et produits de 3 premiers nombres.md",
-    "Fausses routes/Fausses routes.md",
     "Indices/images",
     "ARG/Untitled.md",
     "Carte Mentale",
