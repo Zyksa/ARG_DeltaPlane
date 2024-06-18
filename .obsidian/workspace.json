@@ -50,11 +50,9 @@
             "id": "8c66d40829086c39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Obsidian Organisation.md",
-                "mode": "source",
-                "source": false
+                "file": "Git ARG cheat sheet.pdf"
               }
             }
           }
@@ -125,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Organisation.md",
+                "file": "Git ARG cheat sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Organisation.md",
+                "file": "Git ARG cheat sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Organisation.md"
+                "file": "Git ARG cheat sheet.pdf"
               }
             }
           }
@@ -188,10 +186,11 @@
   },
   "active": "8c66d40829086c39",
   "lastOpenFiles": [
+    "Obsidian Organisation.md",
+    "Git ARG cheat sheet.pdf",
     "Indices/Commande 06 12.md",
     "0612 décimal et produits de 3 premiers nombres.md",
     "Fausses routes/Fausses routes.md",
-    "Obsidian Organisation.md",
     "Indices/images/audio vidéo 1.png",
     "Indices/images",
     "Indices/images/Untitled.md",
