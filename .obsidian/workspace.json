@@ -15,8 +15,8 @@
               "state": {
                 "file": "Carte Mentale/ARG.canvas",
                 "viewState": {
-                  "x": -1238.7001712368171,
-                  "y": 1442.148266741983,
+                  "x": -1692.7938219209052,
+                  "y": 2868.912596547118,
                   "zoom": -0.7024494056099704
                 }
               }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e3053f8e87927fe6",
