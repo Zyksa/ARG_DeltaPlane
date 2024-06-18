@@ -50,9 +50,14 @@
             "id": "8c66d40829086c39",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Git ARG cheat sheet.pdf"
+                "file": "Carte Mentale/ARG.canvas",
+                "viewState": {
+                  "x": -2009.2269923581673,
+                  "y": 551.5220586578333,
+                  "zoom": -0.3908167699726597
+                }
               }
             }
           }
@@ -123,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git ARG cheat sheet.pdf",
+                "file": "Carte Mentale/ARG.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git ARG cheat sheet.pdf",
+                "file": "Carte Mentale/ARG.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git ARG cheat sheet.pdf"
+                "file": "Carte Mentale/ARG.canvas"
               }
             }
           }
@@ -184,18 +189,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c66d40829086c39",
+  "active": "83865422a97d3f62",
   "lastOpenFiles": [
-    "Obsidian Organisation.md",
+    "ARG/audio vidéo 1.png",
+    "Carte Mentale/ARG.canvas",
+    "ARG",
     "Git ARG cheat sheet.pdf",
+    "Obsidian Organisation.md",
     "Indices/Commande 06 12.md",
     "0612 décimal et produits de 3 premiers nombres.md",
     "Fausses routes/Fausses routes.md",
-    "Indices/images/audio vidéo 1.png",
     "Indices/images",
-    "Indices/images/Untitled.md",
+    "ARG/Untitled.md",
     "Carte Mentale",
-    "Carte Mentale/ARG.canvas",
     "Indices",
     "Fausses routes"
   ]
