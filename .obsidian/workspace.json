@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "69f7cd6ae426cc93",
+        "id": "ea096e57052dd214",
         "type": "tabs",
         "children": [
           {
-            "id": "e76aae13b8523c54",
+            "id": "3fea5790dee0f5eb",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Carte Mentale/ARG.canvas",
                 "viewState": {
-                  "x": -1147,
-                  "y": 1300,
-                  "zoom": -3.4174834366393267
-                }
-              }
-            }
-          },
-          {
-            "id": "c4caddc2c2fe103b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Carte Mentale/ARG.canvas",
-                "viewState": {
-                  "x": -1309.1062802767672,
-                  "y": 945.2517946373873,
-                  "zoom": -2.514150103305994
+                  "x": -1831.8517179172227,
+                  "y": 636.2623453713461,
+                  "zoom": -1.935241870601377
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,20 +141,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c4caddc2c2fe103b",
+  "active": "3fea5790dee0f5eb",
   "lastOpenFiles": [
+    "ARG/Signal lost julius cesar 7.png",
+    "Carte Mentale/ARG.canvas",
     "Indices/Commande 06 12.md",
     "Fausses routes/Fausses routes.md",
-    "ARG/Pasted image 20240616161956.png",
-    "Carte Mentale/ARG.canvas",
     "ARG/audio vidéo 1.png",
     "ARG",
     "Git ARG cheat sheet.pdf",
