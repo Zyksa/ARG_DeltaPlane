@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ea096e57052dd214",
+        "id": "0971348ccc151ea3",
         "type": "tabs",
         "children": [
           {
-            "id": "3fea5790dee0f5eb",
+            "id": "08d765be13572947",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Carte Mentale/ARG.canvas",
                 "viewState": {
-                  "x": -413.51363191115325,
-                  "y": 3893.5636171404267,
-                  "zoom": -0.7024494056099704
+                  "x": 727.7910978679489,
+                  "y": 4654.8144037872125,
+                  "zoom": -0.6222736356924392
                 }
               }
             }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e3053f8e87927fe6",
@@ -142,23 +141,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3fea5790dee0f5eb",
+  "active": "08d765be13572947",
   "lastOpenFiles": [
-    "ARG/Signal lost julius cesar 7.png",
+    "Pasted image 20240618195051.png",
+    "Pasted image 20240618193321.png",
+    "Untitled.canvas",
     "Carte Mentale/ARG.canvas",
+    "Git ARG cheat sheet.pdf",
+    "ARG/Signal lost julius cesar 7.png",
     "Indices/Commande 06 12.md",
     "Fausses routes/Fausses routes.md",
     "ARG/audio vidéo 1.png",
     "ARG",
-    "Git ARG cheat sheet.pdf",
     "Obsidian Organisation.md",
     "0612 décimal et produits de 3 premiers nombres.md",
     "Indices/images",
